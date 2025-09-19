@@ -7,7 +7,10 @@
 
 ## Instalação de Dependências
 
+Os arquivos .parquet gerados incluindo o arquivo original renomeado para 1.snappy.parquet estão em: https://drive.google.com/drive/u/0/folders/1wQW08fGFT5iFQV-UsEJLed0_vT8afdqQ
+
 Execute a célula abaixo no início do notebook para instalar todas as bibliotecas necessárias:
+
 
 ```python
 !pip install pandas pyarrow torch tqdm joblib
@@ -67,3 +70,4 @@ Execute a célula abaixo no início do notebook para instalar todas as bibliotec
 ---
 
 **Dúvidas ou sugestões? Fique à vontade para contribuir ou abrir uma issue!**
+
